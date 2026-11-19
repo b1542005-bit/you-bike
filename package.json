@@ -1,0 +1,17 @@
+{
+  "name": "youbike-taipei-live",
+  "version": "1.0.0",
+  "private": true,
+  "description": "臺北市 YouBike 2.0 即時站點查詢",
+  "scripts": {
+    "start": "node server.mjs",
+    "cap:sync": "cap sync"
+  },
+  "dependencies": {
+    "@capacitor/android": "^7.4.3",
+    "@capacitor/core": "^7.4.3"
+  },
+  "devDependencies": {
+    "@capacitor/cli": "^7.4.3"
+  }
+}

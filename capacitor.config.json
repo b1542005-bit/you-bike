@@ -1,0 +1,10 @@
+{
+  "appId": "com.example.youbikeapp",
+  "appName": "YouBike App",
+  "webDir": "www",
+  "plugins": {
+    "CapacitorHttp": {
+      "enabled": true
+    }
+  }
+}
